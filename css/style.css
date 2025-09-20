@@ -695,7 +695,7 @@ img {
 .theme-btn:hover,
 .theme-btn:focus,
 .theme-btn:active {
-  background-color: #b99c69;
+  background-color: #2f2790;
   color: #fff;
 }
 
@@ -728,7 +728,7 @@ img {
 }
 
 .view-cart-btn:hover {
-  background-color: #b99c69;
+  background-color: #2f2790;
   color: #fff;
 }
 
@@ -1180,7 +1180,7 @@ img {
 }
 
 .service-sidebar .download-widget ul a:hover {
-  background: #b99c69;
+  background: #2f2790;
 }
 
 .service-sidebar .contact-widget {
